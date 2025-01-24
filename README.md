@@ -1,5 +1,5 @@
 # Nix-OS Configuration
-
+![nixos screenshot](sc.png)
 ## Introduction
 
 #### What is nix
